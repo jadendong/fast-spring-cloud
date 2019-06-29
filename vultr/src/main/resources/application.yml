@@ -1,0 +1,6 @@
+server:
+  port: 9900
+
+vultr:
+  api-key: FI44JGP5FJSFXAIXUK6ELVOJED72ACLMMNUQ
+

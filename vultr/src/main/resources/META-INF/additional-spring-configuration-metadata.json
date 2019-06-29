@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "vultr.api-key",
+      "type": "java.lang.String",
+      "description": "vultr for vultr.api-key."
+    }
+  ]
+}
